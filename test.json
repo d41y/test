@@ -1,9 +1,9 @@
 {
-    "url": "http://IP/test.yaml",
+    "url": "https://raw.githubusercontent.com/d41y/test/main/test.yaml",
     "urls": [
         {
-            "url": "http://IP/test.yaml",
-            "name": "Foo"
+            "url": "https://raw.githubusercontent.com/d41y/test/main/test.yaml",
+            "name": "html injection test"
         }
     ]
 }
