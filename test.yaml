@@ -1,8 +1,9 @@
 swagger: '2.0'
 info:
-  title: Example yaml.spec
+  title: readme
   description: |
-    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' οnerrοr='alert(document.head)'>">
+    <h1>inject<br><marquee>html</marquee>
+    <a href=#>click me!</a></h1>
 paths:
   /accounts:
     get:
