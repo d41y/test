@@ -3,7 +3,7 @@ info:
   title: Important!
   description: |
     <h1>Developers: README!</h1>
-    <br>We are going to need you to submit your secret via the following link with details of your role: <a href=#>secrets audit</a>.<br>This is due to recent abuse of the API from residential connections.<br><br>Thanks,<br>Your CTO.
+    <br>We are going to need you to submit your secret via the following link with details of your role: <br><br><h1><a href=#>secrets audit</a></h1><br><br>This is due to recent abuse of the API from residential connections.<br><br>Thanks,<br>Your CTO.
 paths:
   /accounts:
     get:
